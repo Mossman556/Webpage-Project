@@ -1,0 +1,7 @@
+{
+    "chatgpt.emailAddress": "",
+    "chatgpt.password": "",
+    "chatgpt.gpt3.apiKey": "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",
+    "chatgpt.authenticationType": "Google Authentication",
+    "chatgpt.chromiumPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+}
