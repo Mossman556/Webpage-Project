@@ -6,7 +6,7 @@ This is a responsive and user-friendly webpage project built with HTML, CSS, and
 
 The webpage uses external stylesheets to apply styles to the different HTML elements, ensuring a consistent and visually appealing design across different devices. The webpage is responsive, meaning it adjusts its layout and content based on the device's screen size to provide an optimal viewing experience.
 
-The webpage project also includes a form to collect user input and a simple login/logout system that is not functional but can be improved upon in future versions. The supported languages section displays logos of different programming languages, making it easy for users to identify whether their preferred language is supported.
+The webpage project also includes a form to collect user input and a simple login/logout system. The supported languages section displays logos of different programming languages, making it easy for users to identify whether their preferred language is supported.
 
 Overall, this webpage project provides a good starting point for building a responsive and visually appealing webpage that showcases different features and services offered by a website.
 
@@ -20,7 +20,7 @@ Overall, this webpage project provides a good starting point for building a resp
 * Responsive design: The webpage is designed to be responsive and adjusts its layout and content based on the device's screen size, ensuring an optimal viewing           experience across different devices.
 * External stylesheets: The webpage uses external stylesheets to apply styles to the different HTML elements, ensuring a consistent and visually appealing design.
 * Form: The webpage includes a form to collect user input, such as name, company name, and email address.
-* Login/logout system: The webpage includes a simple login/logout system that is not functional but can be improved upon in future versions.
+* Login/logout system: The webpage includes a simple login/logout system with a signup form.
 * Social media icons: The webpage includes social media icons in the footer section, making it easy for users to access the website's social media pages.
 
 # Technologies used:
