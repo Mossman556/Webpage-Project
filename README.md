@@ -2,7 +2,7 @@
 
 # Description: 
 
-This is a responsive and user-friendly webpage project built with HTML, CSS, and Font Awesome. The webpage is designed to showcase different features and services offered by the website owner. It includes a navigation bar with links to different sections of the webpage, such as the home page, features page, and documentation page. The webpage also has a showcase section, statistics section, cloud hosting section, supported languages section, and a footer section containing links to other pages and social media icons. 
+This is a responsive and user-friendly webpage project built with HTML, CSS, Font Awesome and PHP. The webpage is designed to showcase different features and services offered by the website owner. It includes a navigation bar with links to different sections of the webpage, such as the home page, features page, and documentation page. The webpage also has a showcase section, statistics section, cloud hosting section, supported languages section, and a footer section containing links to other pages and social media icons. 
 
 The webpage uses external stylesheets to apply styles to the different HTML elements, ensuring a consistent and visually appealing design across different devices. The webpage is responsive, meaning it adjusts its layout and content based on the device's screen size to provide an optimal viewing experience.
 
