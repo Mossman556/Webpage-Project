@@ -34,3 +34,7 @@ This is a website i made in school, created using HTML, CSS, and JavaScript. The
 
 # License: 
 This project is licensed under the MIT License.
+
+# Usage:
+To test this webpage you need to install XAMPP and start Apache and MYSQL. Then download the zip file and extract it to XAMPP/htdocs folder.
+Then in your copy the name of the folder you extracted and paste it to your web-browser URL using Localhost like this: Localhost/" Insert folder name".
