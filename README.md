@@ -1,6 +1,8 @@
 # Title: Website with Login Page
 
-# Description: This is a website i made in school, created using HTML, CSS, and JavaScript. The website serves as an online portfolio to showcase my skills and experience to potential employers and clients. It features a modern, minimalist design with easy navigation and responsive layout for optimal viewing on desktop and mobile devices. In addition, the website includes a secure login page implemented using PHP and MySQL to allow registered users to access exclusive content.
+# Description: 
+
+This is a website i made in school, created using HTML, CSS, and JavaScript. The website serves as an online portfolio to showcase my skills and experience to potential employers and clients. It features a modern, minimalist design with easy navigation and responsive layout for optimal viewing on desktop and mobile devices. In addition, the website includes a secure login page implemented using PHP and MySQL to allow registered users to access exclusive content.
 
 # Features:
 
@@ -30,4 +32,5 @@
 * Integrating a CMS for easier content management and updating
 * Implementing server-side scripts for advanced features such as dynamic content and user management
 
-# License: This project is licensed under the MIT License.
+# License: 
+This project is licensed under the MIT License.
